@@ -1,0 +1,41 @@
+{
+  "workbench.colorTheme": "Default Dark Modern",
+  "editor.inlineSuggest.enabled": true,
+  "editor.fontLigatures": true,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "window.zoomLevel": 2,
+  "editor.unicodeHighlight.allowedLocales": {
+    "fr": true
+  },
+  "editor.tabSize": 4,
+  "editor.insertSpaces": false,
+  "editor.renderWhitespace": "all",
+  "files.trimTrailingWhitespace": false,
+  "files.insertFinalNewline": true,
+  "42header.username": "gbazart",
+  "42header.email": "gabriel.bazart@gmail.com",
+  "editor.fontFamily": "JetBrainsMono Nerd Font",
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+  "editor.formatOnSave": true,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+  "github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+  "git.autofetch": true,
+  "explorer.sortOrder": "filesFirst",
+  "workbench.editor.labelFormat": "short",
+  "explorer.compactFolders": false,
+  "workbench.tree.indent": 16,
+  "[cpp]": {
+    "editor.defaultFormatter": "llvm-vs-code-extensions.vscode-clangd"
+  },
+  "github.copilot.editor.enableAutoCompletions": true,
+  "svelte.enable-ts-plugin": true,
+  "makefile.configureOnOpen": true,
+  "C_Cpp.intelliSenseEngine": "disabled"
+}
