@@ -31,9 +31,7 @@
   "workbench.editor.labelFormat": "short",
   "explorer.compactFolders": false,
   "workbench.tree.indent": 16,
-  "[cpp]": {
-    "editor.defaultFormatter": "llvm-vs-code-extensions.vscode-clangd"
-  },
+  "clang-format.executable": "/usr/bin/clang-format",
   "github.copilot.editor.enableAutoCompletions": true,
   "svelte.enable-ts-plugin": true,
   "makefile.configureOnOpen": true,
